@@ -17,22 +17,4 @@
         android:layout_marginTop="21dp"
         android:text="List 1" />
 
-    <Button
-        android:id="@+id/list2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/list1"
-        android:layout_below="@+id/list1"
-        android:layout_marginTop="23dp"
-        android:text="List 2" />
-
-    <Button
-        android:id="@+id/list3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/list2"
-        android:layout_below="@+id/list2"
-        android:layout_marginTop="26dp"
-        android:text="List 3" />
-
 </RelativeLayout>

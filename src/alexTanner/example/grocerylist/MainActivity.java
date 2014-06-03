@@ -28,9 +28,7 @@ public class MainActivity extends Activity {
 		});
 	
 	
-	
-		
-		List2 = (Button) findViewById(R.id.list2);
+		/*List2 = (Button) findViewById(R.id.list2);
 		List2.setOnClickListener(new View.OnClickListener() {
 			
 			@Override
@@ -49,7 +47,7 @@ public class MainActivity extends Activity {
 				Intent intent = new Intent(MainActivity.this, SecondActivity.class);
 				startActivity(intent);
 			}
-		});
+		});*/
 	}
 
 	@Override
